@@ -1,4 +1,4 @@
-#include "win32_window.h"
+git remote add origin https://github.com/abdGhost/AI_Image_generator.git#include "win32_window.h"
 
 #include <dwmapi.h>
 #include <flutter_windows.h>
